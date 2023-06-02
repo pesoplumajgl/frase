@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6)`UCWSpZXzYQpCO@G9x" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="|+;::TrNp}LB=Hp%#r$m"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6)`UCWSpZXzYQpCO@G9x" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="|+;::TrNp}LB=Hp%#r$m"><field name="LEDS">`
         # . . . . 
         . # . . . 
         . . . . . 
@@ -94,4 +94,4 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_pause" id="^CE?[j%-W2-^u}RN1ktS"><value name="pause"><shadow type="timePicker" id="JaF#On2X-Vk`uX|gq{fz"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="!Y9Cj6Tg+=!wLi_Ro@mk" x="225" y="20"></block></xml>
+        `</field><next><block type="device_pause" id="^CE?[j%-W2-^u}RN1ktS"><value name="pause"><shadow type="timePicker" id="JaF#On2X-Vk`uX|gq{fz"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="!Y9Cj6Tg+=!wLi_Ro@mk" x="205" y="0"></block></xml>
